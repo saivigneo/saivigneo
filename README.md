@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics and Backend Development.<br>🌱 I’m currently learning unrealEngine, Solidity and Machine Learning Concepts.<br>💬 Ask me about Python, Java, Data Analytics, and related to my repositories.<br>📫 How to reach me gokulprasanth63808@gmail.com<br>📄 Know about my experiences https://linkedin.com/gokul-hastrophil
+🔭 I’m currently working on Data Analytics and Backend Development.<br>🌱 I’m currently learning unrealEngine, Solidity and Machine Learning Concepts.<br>💬 Ask me about Python, Java, Data Analytics, and related to my repositories.<br>📫 How to reach me saivigneo@gmail.com<br>📄 Know about my experiences on https://www.linkedin.com/in/sai-vigneshs
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-hastrophil&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
