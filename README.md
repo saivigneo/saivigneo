@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-hastrophil&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.infragistics.com%2Fcommunity%2Fcfs-filesystemfile.ashx%2F__key%2FCommunityServer.Blogs.Components.WeblogFiles%2Fd-coding%2F2043.Bill-Gates.jpg&tbnid=irLHKkJmSwxF8M&vet=12ahUKEwjd587svf-AAxUl2jgGHYLyChQQMygBegQIARBk..i&imgrefurl=https%3A%2F%2Fwww.infragistics.com%2Fcommunity%2Fblogs%2Fb%2Fd-coding%2Fposts%2Fdeveloper-quotes-edition-3&docid=YMmwuLnclA_8oM&w=800&h=393&q=developers%20quotes&ved=2ahUKEwjd587svf-AAxUl2jgGHYLyChQQMygBegQIARBk)<br/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
