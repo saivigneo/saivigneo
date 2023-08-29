@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sai Vignesh S</h1>
-<h3 align="center">A passionate coding enthusiast</h3>
+# 💫 About Me:
+🔭 I’m currently working on Data Analytics and Machine Learning Concepts.<br>🌱 I’m currently learning Api Development ,TensorFlow and Machine Learning Concepts.<br>💬 Ask me about Python, Java, Data Analytics, and related to my repositories.<br>📫 How to reach me  saivigneo@gmail.com<br>👨‍💻 All of my projects are available at github.com/saivigneo<br>📝 I regularly write articles on https://www.blogger.com/blog/posts/8358274001924279193?hl=en&tab=jj<br>📄 Know about my experiences https://linkedin.com/sai-vigneshs
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saivigneo&label=Profile%20views&color=0e75b6&style=flat" alt="saivigneo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saivigneo" alt="saivigneo" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/its_saivignesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-vigneshs) 
 
-- 🔭 I’m currently working on **Data Analytics and Machine Learning Concepts**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saivigneo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saivigneo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saivigneo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **Linux,Tensorflow and Machine Learning Concepts**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saivigneo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 👨‍💻 All of my projects are available at [github.com/saivigneo](github.com/saivigneo)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/8358274001924279193?hl=en&tab=jj](https://www.blogger.com/blog/posts/8358274001924279193?hl=en&tab=jj)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saivigneo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 💬 Ask me about **Python, Java, Data Analytics, and related to my repositories.**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 📫 How to reach me **saivigneo@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=saivigneo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [https://linkedin.com/in/sai-vigneshs](https://linkedin.com/in/sai-vigneshs)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-vigneshs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-vigneshs" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/its_saivignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/its_saivignesh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saivigneo&show_icons=true&locale=en&layout=compact" alt="saivigneo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saivigneo&show_icons=true&locale=en" alt="saivigneo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saivigneo&" alt="saivigneo" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
